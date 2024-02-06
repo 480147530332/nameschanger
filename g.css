@@ -49,4 +49,20 @@ body{
 
 } 
 
+@media(max-width:390px){
+    body {
+        width: 91%;
+        height: 810px;
+        background-color: black;
+        border: 10px solid wheat;
+    }
+}
+@media(max-width:390px){
+    .btn {
+        margin-left: 34px;
+        margin-top: -33px;
+    }
+}
+
+
 
